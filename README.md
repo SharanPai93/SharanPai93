@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SharanPai93, and am currently a sophomore in Highschool!
+- 👋 Hi, I’m @SharanPai93, and am currently a Junior in Highschool!
 - 👀 I’m interested in Programming, Math, and Robotics.
 - 🌱 I’m continuing to learn more about programming and AI. I have been learning C++, and am exploring further into AI!
 
